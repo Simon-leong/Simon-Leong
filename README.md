@@ -10,6 +10,7 @@
 <p>
   <a href="https://simon-leong.github.io/"><img src="https://img.shields.io/badge/Homepage-0b1120?style=for-the-badge&logo=aboutdotme&logoColor=0EA5E9" alt="Homepage"/></a>
   <a href="mailto:liangqifan@u.nus.edu"><img src="https://img.shields.io/badge/Email-0b1120?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+  <a href="https://scholar.google.com/citations?user=XJU7FyUAAAAJ&inst=3212728378801010220"><img src="https://img.shields.io/badge/Google%20Scholar-0b1120?style=for-the-badge&logo=googlescholar&logoColor=4285F4" alt="Google Scholar"/></a>
   <a href="https://github.com/Simon-Leong"><img src="https://img.shields.io/badge/GitHub-0b1120?style=for-the-badge&logo=github&logoColor=e2e8f0" alt="GitHub"/></a>
 </p>
 
@@ -29,6 +30,15 @@
 `Audio-Visual Multimodal Learning` · `Controllable Generative Modeling` · `Human-Centric Perception` · `Video Understanding` · `3D Scene Understanding`
 
 </div>
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| **[TED-TTS](https://github.com/Simon-leong/TED-TTS)** | Text–emotion disentangled text-to-speech &nbsp;<img src="https://img.shields.io/badge/ACL-2026-2E86C1?style=flat-square"/> |
+| **[STSVD](https://github.com/Simon-leong/STSVD)** | Surgical type-aware smoke-video desmoking &nbsp;<img src="https://img.shields.io/badge/AAAI-2026-1D3557?style=flat-square"/> |
+| **[DubMaster](https://github.com/Simon-leong/DubMaster)** | Audio-visual dubbing / video localization toolkit |
+| **[SenHuo Forest-Fire System](https://github.com/Simon-leong/SenHuo-Forest-Fire-Intelligence-Integration-Software-System-UI)** | Multi-source forest-fire monitoring platform (UI) 🏆 |
 
 ## 🛠️ Tech Stack
 
@@ -53,7 +63,7 @@
 
 <br/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Simon-Leong&hide_border=true&background=0b1120&stroke=1e293b&ring=0EA5E9&fire=0EA5E9&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0" alt="streak"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=Simon-Leong&hide_border=true&background=0b1120&stroke=1e293b&ring=0EA5E9&fire=0EA5E9&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0" alt="streak"/>
 
 </div>
 
