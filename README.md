@@ -16,6 +16,8 @@
 
 </div>
 
+<br/>
+
 ## 🧭 About Me
 
 - 🎓 First-year **MComp (AI)** student at the **National University of Singapore**, [Sound & Music Computing Lab](https://smcnus.comp.nus.edu.sg/), advised by **Prof. Ye Wang**.
@@ -27,18 +29,22 @@
 
 <div align="center">
 
-`Audio-Visual Multimodal Learning` · `Controllable Generative Modeling` · `Human-Centric Perception` · `Video Understanding` · `3D Scene Understanding`
+`Audio-Visual Multimodal Learning` &nbsp;·&nbsp; `Controllable Generative Modeling` &nbsp;·&nbsp; `Human-Centric Perception` &nbsp;·&nbsp; `Video Understanding` &nbsp;·&nbsp; `3D Scene Understanding`
 
 </div>
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 | Project | Description |
-|---|---|
+|:---|:---|
 | **[TED-TTS](https://github.com/Simon-leong/TED-TTS)** | Text–emotion disentangled text-to-speech &nbsp;<img src="https://img.shields.io/badge/ACL-2026-2E86C1?style=flat-square"/> |
 | **[STSVD](https://github.com/Simon-leong/STSVD)** | Surgical type-aware smoke-video desmoking &nbsp;<img src="https://img.shields.io/badge/AAAI-2026-1D3557?style=flat-square"/> |
 | **[DubMaster](https://github.com/Simon-leong/DubMaster)** | Audio-visual dubbing / video localization toolkit |
-| **[SenHuo Forest-Fire System](https://github.com/Simon-leong/SenHuo-Forest-Fire-Intelligence-Integration-Software-System-UI)** | Multi-source forest-fire monitoring platform (UI) 🏆 |
+| **[SenHuo Forest-Fire System](https://github.com/Simon-leong/SenHuo-Forest-Fire-Intelligence-Integration-Software-System-UI)** | Multi-source forest-fire monitoring platform (UI) &nbsp;🏆 |
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -58,15 +64,14 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-six-delta-81.vercel.app/api?username=Simon-Leong&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&title_color=0EA5E9&icon_color=0EA5E9&text_color=94a3b8&bg_color=0b1120&v=3" alt="stats"/>
-<img height="165" src="https://github-readme-stats-six-delta-81.vercel.app/api/top-langs/?username=Simon-Leong&layout=compact&hide_border=true&title_color=0EA5E9&text_color=94a3b8&bg_color=0b1120&v=3" alt="top langs"/>
+<img height="170" src="https://github-readme-stats-six-delta-81.vercel.app/api?username=Simon-Leong&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&border_color=1e293b&border_radius=10&title_color=0EA5E9&icon_color=0EA5E9&text_color=94a3b8&bg_color=0f1729&v=4" alt="stats"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats-six-delta-81.vercel.app/api/top-langs/?username=Simon-Leong&layout=compact&langs_count=6&border_color=1e293b&border_radius=10&title_color=0EA5E9&text_color=94a3b8&bg_color=0f1729&v=4" alt="top langs"/>
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Simon-Leong&style=flat-square&color=0EA5E9&label=Profile+Views" alt="views"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e293b,100:0b1120&height=100&section=footer"/>
-
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e293b,100:0b1120&height=100&section=footer"/>
