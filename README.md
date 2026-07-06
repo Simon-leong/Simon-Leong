@@ -23,7 +23,15 @@
 - 🎓 First-year **MComp (AI)** student at the **National University of Singapore**, [Sound & Music Computing Lab](https://smcnus.comp.nus.edu.sg/), advised by **Prof. Ye Wang**.
 - 🔬 Previously a research assistant at **Wuhan University** (National Multimedia Software Engineering Technology Research Center) and a **summer research intern at Oxford University** (Big Data Institute, 2024).
 - 🎯 I work on **controllable generative modeling** for **audio-visual multimodal learning**, human-centric perception, and 3D scene understanding.
-- 📚 For my **full bio, publications, and projects**, visit my personal homepage 👉 **[simon-leong.github.io](https://simon-leong.github.io/)**
+- 🌱 Currently exploring controllable co-speech gesture & expressive speech generation.
+- 📚 For my **full bio, publications, and projects**, visit 👉 **[simon-leong.github.io](https://simon-leong.github.io/)**
+
+## 📰 News
+
+- **2026** — 🎤 *TED-TTS* accepted to **ACL 2026** (oral nominee).
+- **2026** — 🩺 *STSVD* accepted to **AAAI 2026**.
+- **2024** — 🎨 Few-Shot Face Sketch-to-Photo Synthesis published in **ACM TOMM**.
+- **2024** — 🌍 Summer research intern at **University of Oxford**, Big Data Institute.
 
 ## 🔬 Research Interests
 
@@ -64,11 +72,25 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-six-delta-81.vercel.app/api?username=Simon-Leong&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&border_color=1e293b&border_radius=10&title_color=0EA5E9&icon_color=0EA5E9&text_color=94a3b8&bg_color=0f1729&v=4" alt="stats"/>
+<img height="170" src="https://github-readme-stats-six-delta-81.vercel.app/api?username=Simon-Leong&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&border_color=1e293b&border_radius=10&title_color=0EA5E9&icon_color=0EA5E9&text_color=94a3b8&bg_color=0f1729&v=5" alt="stats"/>
 &nbsp;
-<img height="170" src="https://github-readme-stats-six-delta-81.vercel.app/api/top-langs/?username=Simon-Leong&layout=compact&langs_count=6&border_color=1e293b&border_radius=10&title_color=0EA5E9&text_color=94a3b8&bg_color=0f1729&v=4" alt="top langs"/>
+<img height="170" src="https://github-readme-stats-six-delta-81.vercel.app/api/top-langs/?username=Simon-Leong&layout=compact&langs_count=6&border_color=1e293b&border_radius=10&title_color=0EA5E9&text_color=94a3b8&bg_color=0f1729&v=5" alt="top langs"/>
 
 <br/><br/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Simon-Leong&hide_border=true&border_radius=10&background=0f1729&stroke=1e293b&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&currStreakNum=e2e8f0&sideNums=e2e8f0&sideLabels=94a3b8&dates=64748b" alt="streak"/>
+
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Simon-Leong&bg_color=0f1729&color=e2e8f0&line=0EA5E9&point=e2e8f0&area=true&area_color=0EA5E9&title_color=0EA5E9&hide_border=true&radius=10" alt="activity graph"/>
+
+</div>
+
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Simon-Leong&style=flat-square&color=0EA5E9&label=Profile+Views" alt="views"/>
 
