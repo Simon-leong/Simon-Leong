@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,50:1e293b,100:0ea5e9&height=200&section=header&text=Qifan%20Liang%20(Simon%20Leong)&fontSize=42&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Audio-Visual%20Multimodal%20Learning%20%C2%B7%20Controllable%20Generative%20AI&descSize=18&descAlignY=60&descColor=94a3b8" alt="header"/>
 
 <a href="https://simon-leong.github.io/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=MComp+(AI)+%40+NUS+Sound+%26+Music+Computing+Lab;Advised+by+Prof.+Ye+Wang;Audio-Visual+%C2%B7+Human-Centric+Perception+%C2%B7+3D+Scene+Understanding" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=820&lines=MComp+(AI)+%40+NUS+Sound+%26+Music+Computing+Lab;Advised+by+Prof.+Ye+Wang;Audio-Visual+%C2%B7+Human-Centric+Perception+%C2%B7+3D+Scene+Understanding" alt="Typing SVG" />
 </a>
 
 <p>
