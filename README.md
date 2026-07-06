@@ -26,13 +26,6 @@
 - 🌱 Currently exploring controllable co-speech gesture & expressive speech generation.
 - 📚 For my **full bio, publications, and projects**, visit 👉 **[simon-leong.github.io](https://simon-leong.github.io/)**
 
-## 📰 News
-
-- **2026** — 🎤 *TED-TTS* accepted to **ACL 2026** (oral nominee).
-- **2026** — 🩺 *STSVD* accepted to **AAAI 2026**.
-- **2024** — 🎨 Few-Shot Face Sketch-to-Photo Synthesis published in **ACM TOMM**.
-- **2024** — 🌍 Summer research intern at **University of Oxford**, Big Data Institute.
-
 ## 🔬 Research Interests
 
 <div align="center">
@@ -82,13 +75,6 @@
 
 </div>
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Simon-Leong&bg_color=0f1729&color=e2e8f0&line=0EA5E9&point=e2e8f0&area=true&area_color=0EA5E9&title_color=0EA5E9&hide_border=true&radius=10" alt="activity graph"/>
-
-</div>
 
 <div align="center">
 
