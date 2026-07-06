@@ -58,12 +58,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Simon-Leong&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0EA5E9&icon_color=0EA5E9&text_color=94a3b8&bg_color=0b1120" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-Leong&layout=compact&hide_border=true&title_color=0EA5E9&text_color=94a3b8&bg_color=0b1120" alt="top langs"/>
-
-<br/>
-
-<img height="165" src="https://streak-stats.demolab.com/?user=Simon-Leong&hide_border=true&background=0b1120&stroke=1e293b&ring=0EA5E9&fire=0EA5E9&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0" alt="streak"/>
+<img height="165" src="https://github-readme-stats-six-delta-81.vercel.app/api?username=Simon-Leong&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0EA5E9&icon_color=0EA5E9&text_color=94a3b8&bg_color=0b1120" alt="stats"/>
+<img height="165" src="https://github-readme-stats-six-delta-81.vercel.app/api/top-langs/?username=Simon-Leong&layout=compact&hide_border=true&title_color=0EA5E9&text_color=94a3b8&bg_color=0b1120" alt="top langs"/>
 
 </div>
 
